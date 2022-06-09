@@ -13,9 +13,9 @@ def decode_char(morse_char)
   morse_code_hash[morse_char]
 end
 # Test Single Character
-puts decode_char('.-')        # is A
-puts decode_char('-----')     # is 0
-puts decode_char('--.-')      # is Q
+puts decode_char('.-')
+puts decode_char('-----')
+puts decode_char('--.-')
 
 def decode_word(morse_word)
   characters = morse_word.split
