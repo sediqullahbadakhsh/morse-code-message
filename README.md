@@ -50,6 +50,12 @@ or alternatively you can copy and paste the commands in
 - GitHub: [@sediqullahbadakhsh](https://github.com/sediqullahbadakhsh)
 - LinkedIn: [sediqullahBadakhsh](https://www.linkedin.com/in/sediqullah/)
 
+👤 **Have Samuel**
+
+- GitHub: [Have-Samuel](https://github.com/Have-Samuel)
+- Twitter: [@samhave1](https://twitter.com/@samhave1)
+- LinkedIn: [Have Samuel Kabreebe](https://linkedin.com/in/Have-Samuel-Kabreebe)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
