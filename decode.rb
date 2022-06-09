@@ -13,9 +13,9 @@ def decode_char(morse_char)
   morse_code_hash[morse_char]
 end
 # Test Single Character
-puts decode_char(".-")        # is A
-puts decode_char("-----")     # is 0
-puts decode_char("--.-")      # is Q
+puts decode_char('.-')        # is A
+puts decode_char('-----')     # is 0
+puts decode_char('--.-')      # is Q
 
 def decode_word(morse_word)
   characters = morse_word.split
@@ -25,7 +25,7 @@ def decode_word(morse_word)
 end
 
 # Test Words
-puts decode_word("-- -.--") # is MY
+puts decode_word('-- -.--') # is MY
 
 def decode(morse_sentence)
   words = morse_sentence.split('   ')
@@ -35,7 +35,7 @@ def decode(morse_sentence)
 end
 
 # Test Sentence
-puts decode("-- -.--   -. .- -- .") # is MY NAME
+puts decode('-- -.--   -. .- -- .') # is MY NAME
 
 # Morse Code Message
-puts decode(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
